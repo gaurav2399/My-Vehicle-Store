@@ -70,16 +70,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-//        Car car = new Car(brands[1], model[2], 100000, names[3]);
-//        Bike bike = new Bike(brands[2], model[3], 200000, names[4]);
-//
-//        myDatabase.myDao().insertCar(car)
-//                .subscribeOn(Schedulers.io())
-//                .subscribe(() -> Log.e(TAG, "single car inserted"));
-//
-//        myDatabase.myDao().insertBike(bike)
-//                .subscribeOn(Schedulers.io())
-//                .subscribe(() -> Log.e(TAG, "single bike inserted"));
+
 //
 //        myDatabase.myDao().getBikes()
 //                .subscribeOn(Schedulers.io())
